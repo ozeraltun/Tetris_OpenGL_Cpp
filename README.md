@@ -9,3 +9,8 @@ In order to try it on Apple Device:
   1- delete or comment #include <Windows.h>
   2- delete or comment FreeConsole();
 
+Demo:
+
+https://user-images.githubusercontent.com/68518267/132960865-b0b5f34d-04f7-4c15-9f07-6f822e30b01e.mp4
+
+
